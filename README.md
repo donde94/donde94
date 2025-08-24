@@ -10,7 +10,7 @@ Here I will be keeping my DEV-DIARY and will be sharing my projects.
 - *(pending)* **Sandbox** - Small tests while learning various topics
 
 ### Look us up at YouTube!
-📫 [YouTube](https://github.com](https://www.youtube.com/@KorentoInteractive)
+📫 [YouTube](https://www.youtube.com/@KorentoInteractive)
 
 <!--
 **donde94/donde94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
