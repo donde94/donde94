@@ -1,6 +1,6 @@
 # About Me
-This is my GitHub page, I am learning C#, C++, UE5, Python.
-I will be starting ICT studies really soon and I am practicing to use GitHub.
+This is my GitHub page, I am learning # C#, C++, UE5, Python# for now.  
+I will be starting ICT studies really soon and I am practicing to use GitHub.  
 Here I will be keeping my DEV-DIARY and will be sharing my projects.
 
 ## Projects
