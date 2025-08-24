@@ -1,7 +1,9 @@
-# About Me
+# Hello world!
+I am a 31-year old male from Finland, currently studying ICT.  
 This is my GitHub page, I am learning **C#, C++, UE5, Python** for now.  
-I will be starting ICT studies really soon and I am practicing to use GitHub.  
-Here I will be keeping my DEV-DIARY and will be sharing my projects.
+I started ICT studies and now I am practicing to use GitHub.  
+Here I will be keeping my DEV-DIARY and will be sharing my projects.  
+![Banner](Toivogit.jpg)
 
 ## Projects
 - [DEV-DIARY](https://github.com/donde94/DEV-DIARY)
