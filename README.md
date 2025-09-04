@@ -1,6 +1,6 @@
 # Hello world!
 I am a 31-year old male from Finland, currently studying ICT.  
-This is my GitHub page, I am learning **C#, C++, UE5, Python** for now.  
+I am learning **C#, C++, UE5, Python, MySQL** for now.  
 I started ICT studies and now I am practicing to use GitHub.  
 Here I will be keeping my DEV-DIARY and will be sharing my projects.  
 ![Banner](image.png)
