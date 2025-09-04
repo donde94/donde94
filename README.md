@@ -8,7 +8,7 @@ Here I will be keeping my DEV-DIARY and will be sharing my projects.
 
 ## Projects
 - [DEV-DIARY](https://github.com/donde94/DEV-DIARY)
-- [Prototype Video Preview](https://www.youtube.com/watch?v=OrnuOiXlLKI) **Toivo** - Souls-like game with Nordic mythology - Unreal Engine 5
+- **Toivo** - Souls-like game with Nordic mythology - Unreal Engine 5 - [Prototype Video Preview](https://www.youtube.com/watch?v=OrnuOiXlLKI) 
 - *(pending)* **Lost Wisdom** - Psychological Horror Game in First Person View - Unreal Engine 5
 - *(pending)* **Sandbox** - Small tests while learning various topics
 
