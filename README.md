@@ -3,7 +3,7 @@ I am a 31-year old male from Finland, currently studying programming and video g
 I am learning **C#, C++, UE5, Unity, Python, MySQL** for now.  
 Experienced in graphical design, video editing and music composing. I also play piano & guitar.  
 Started ICT studies and now I am practicing to use GitHub.  
-Here I will be keeping my DEV-DIARY(https://github.com/donde94/DEV-DIARY) and will be sharing my projects.  
+Here I will be keeping my [DEV-DIARY](https://github.com/donde94/DEV-DIARY) and will be sharing my projects.  
 ![Banner](image.png)
 
 ## Projects
