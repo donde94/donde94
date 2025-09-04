@@ -1,6 +1,6 @@
 # Hello world!
 I am a 31-year old male from Finland, currently studying programming and videogame development.  
-I am learning **C#, C++, UE5, Python, MySQL** for now.  
+I am learning **C#, C++, UE5, Unity, Python, MySQL** for now.  
 Experienced in graphical design, video editing and music composing. I also play piano & guitar.  
 Started ICT studies and now I am practicing to use GitHub.  
 Here I will be keeping my DEV-DIARY and will be sharing my projects.  
@@ -8,8 +8,8 @@ Here I will be keeping my DEV-DIARY and will be sharing my projects.
 
 ## Projects
 - [DEV-DIARY](https://github.com/donde94/DEV-DIARY)
-- *(pending)* **Toivo** - Souls-like game with Nordic mythology - Unreal Engine 5
-- *(pending)* **Lost Wisdom** - Psychological Horror Game - Unreal Engine 5
+- [Prototype Video Preview](https://www.youtube.com/watch?v=OrnuOiXlLKI) **Toivo** - Souls-like game with Nordic mythology - Unreal Engine 5
+- *(pending)* **Lost Wisdom** - Psychological Horror Game in First Person View - Unreal Engine 5
 - *(pending)* **Sandbox** - Small tests while learning various topics
 
 ### Look us up at YouTube!
