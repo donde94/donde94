@@ -1,7 +1,8 @@
 # Hello world!
 I am a 31-year old male from Finland, currently studying programming and videogame development.  
 I am learning **C#, C++, UE5, Python, MySQL** for now.  
-I started ICT studies and now I am practicing to use GitHub.  
+Experienced in graphical design, video editing and music composing. I also play piano & guitar.  
+Started ICT studies and now I am practicing to use GitHub.  
 Here I will be keeping my DEV-DIARY and will be sharing my projects.  
 ![Banner](image.png)
 
