@@ -11,7 +11,10 @@ Here I will be keeping my [DEV-DIARY](https://github.com/donde94/DEV-DIARY) and 
 - [DEV-DIARY](https://github.com/donde94/DEV-DIARY)
 - *(pending)* **Lost Wisdom** - Psychological Horror in first person view. Witness the unraveling of a man’s sanity through his own eyes. - **Unreal Engine 5** - *[Teaser Coming Soon]*
 - *(pending)* **Teenage Joyride** - Blasting subwoofers, egging teacher's houses and cruising around with your reckless teenage friendgroup.
-![Logo](teenage-joyride-kansi.png)
+<p align="center">
+  <img src="teenage-joyride-kansi.png" alt="Logo" width="400">
+</p>
+
 - *(pending)* **Sandbox** - Small tests while learning various topics
 
 ### Look us up at YouTube!
