@@ -1,4 +1,4 @@
-# Hello world!
+# Hello World!
 I am a 31-year old male from Finland, currently studying programming and video game development.  
 I am learning **C#, C++, UE5, Unity, Python, MySQL** for now.  
 Experienced in graphical design, video editing and music composing. I also play piano & guitar.  
@@ -10,6 +10,8 @@ Here I will be keeping my [DEV-DIARY](https://github.com/donde94/DEV-DIARY) and 
 - **Toivo** - [CLICK HERE FOR GAMEPLAY PREVIEW](https://www.youtube.com/watch?v=YsZmyFvXvHg) - Souls-like game with Nordic mythology developed in **Unreal Engine 5**
 - [DEV-DIARY](https://github.com/donde94/DEV-DIARY)
 - *(pending)* **Lost Wisdom** - Psychological Horror in first person view. Witness the unraveling of a man’s sanity through his own eyes. - **Unreal Engine 5** - *[Teaser Coming Soon]*
+-   ![Lost Wisdom](09981EE7F81564FA201017983461FAF460B844C4.png)
+
 - *(pending)* **Teenage Joyride** - Blasting subwoofers, egging teacher's houses and cruising around with your reckless teenage friendgroup.
 <p align="center">
   <img src="teenage-joyride-kansi.png" alt="Logo" width="400">
