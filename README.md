@@ -8,7 +8,6 @@ Here I will be keeping my [DEV-DIARY](https://github.com/donde94/DEV-DIARY) and 
 
 ## Projects
 - **Toivo** - [CLICK HERE FOR GAMEPLAY PREVIEW](https://www.youtube.com/watch?v=YsZmyFvXvHg) - Souls-like game with Nordic mythology developed in **Unreal Engine 5**
-- [DEV-DIARY](https://github.com/donde94/DEV-DIARY)
 - *(pending)* **Lost Wisdom** - Psychological Horror in first person view. Witness the unraveling of a man’s sanity through his own eyes. - **Unreal Engine 5** - *[Teaser Coming Soon]*
 -   ![Lost Wisdom](09981EE7F81564FA201017983461FAF460B844C4.png)
 
@@ -17,6 +16,7 @@ Here I will be keeping my [DEV-DIARY](https://github.com/donde94/DEV-DIARY) and 
   <img src="teenage-joyride-kansi.png" alt="Logo" width="400">
 </p>
 
+- [DEV-DIARY](https://github.com/donde94/DEV-DIARY)
 - *(pending)* **Sandbox** - Small tests while learning various topics
 
 ### Look us up at YouTube!
