@@ -7,7 +7,7 @@ Here I will be keeping my [DEV-DIARY](https://github.com/donde94/DEV-DIARY) and 
 ![Banner](image.png)
 
 ## Projects
-- **Toivo** - [CLICK HERE FOR GAMEPLAY PREVIEW](https://www.youtube.com/watch?v=YsZmyFvXvHg) - Souls-like game with Nordic mythology developed in **Unreal Engine 5**
+- **Toivo** - ![Click Here for Gameplay Video](toivopreview.png)](https://youtu.be/YsZmyFvXvHg) - Souls-like game with Nordic mythology developed in **Unreal Engine 5**
 - *(pending)* **Lost Wisdom** - Psychological Horror in first person view. Witness the unraveling of a man’s sanity through his own eyes. - **Unreal Engine 5** - *[Teaser Coming Soon]*
 -   ![Lost Wisdom](09981EE7F81564FA201017983461FAF460B844C4.png)
 
