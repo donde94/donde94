@@ -1,7 +1,7 @@
 # Hello World!
 I am a 31-year old enthusiastic gamer from Finland, currently studying programming and video game development.  
-I am learning **C#, C++, UE5, Unity, Python, MySQL** for now.  
-Experienced in graphical design, video editing and music composing. I also play piano & guitar.  
+I am learning **C#, C++, UE5, Unity, Python, SQL** and currently expanding my general knowledge across various fields of IT.  
+Experienced in **graphical design**, **video editing** and **music composing**. *I also play piano & guitar*.  
 Started ICT studies and now I am practicing to use GitHub.  
 Here I will be keeping my [DEV-DIARY](https://github.com/donde94/DEV-DIARY) and will be sharing my projects.  
 ![Banner](korentobanner1.png)
