@@ -1,5 +1,5 @@
 # Hello World!
-I am a 31-year old enthusiastic gamer from Finland, currently studying **programming** and **video game development**.  
+I am a 31-year old enthusiastic gamer from Finland, currently studying programming and video game development.  
 Currently studying **C#, C++, UE5, Unity, Python, SQL** and cexpanding my general knowledge across various fields of IT.  
 Experienced in **graphical design**, **video editing** and **music composing**. *I also play piano & guitar*.  
 Started ICT studies and now I am practicing to use GitHub.  
@@ -7,7 +7,7 @@ Here I will be keeping my [DEV-DIARY](https://github.com/donde94/DEV-DIARY) and 
 ![Banner](korentobanner1.png)
 
 ## Projects
-- **Toivo(abandoned)** – Souls-like game with Nordic mythology developed in Unreal Engine 5 - Production Cancelled Due to Budget Limitations
+- **Toivo(abandoned)** – Souls-like game with Nordic mythology developed in Unreal Engine 5 -*Production Cancelled Due to Budget Limitations*
 
   [![Toivo Preview](toivopreview2.png)](https://youtu.be/YsZmyFvXvHg)  
 - *(pending)* **Lost Wisdom** - Psychological Horror in first person view. Witness the unraveling of a man’s sanity through his own eyes. - **Unreal Engine 5** - *[Teaser Coming Soon]*
