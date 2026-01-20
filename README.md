@@ -11,7 +11,7 @@ Here I will be keeping my [DEV-DIARY](https://github.com/donde94/DEV-DIARY) and 
 
   [![Toivo Preview](toivopreview2.png)](https://youtu.be/YsZmyFvXvHg)  
 - *(pending)* **Lost Wisdom** - Psychological Horror in first person view. Witness the unraveling of a man’s sanity through his own eyes. - **Unreal Engine 5** - *[Teaser Coming Soon]*
--   ![Lost Wisdom](Näyttökuva 2026-01-18 042912.png)
+-   ![Lost Wisdom](LostWisdompr.png)
 
 - *(pending)* **Teenage Joyride** - Blasting subwoofers, egging teachers' houses and cruising around with your reckless teenage friendgroup.
 <p align="center">
