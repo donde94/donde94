@@ -14,9 +14,6 @@ Here I will be keeping my [DEV-DIARY](https://github.com/donde94/DEV-DIARY) and 
 -   ![Lost Wisdom](LostWisdomPR.png)  
 
 - *(pending)* **Teenage Joyride** - Blasting subwoofers, egging teachers' houses and cruising around with your reckless teenage friendgroup.
-<p align="center">
-  <img src="teenage-joyride-kansi.png" alt="Logo" width="400">
-</p>
 
 - [DEV-DIARY](https://github.com/donde94/DEV-DIARY)
 - *(pending)* **Sandbox** - Small tests while learning various topics
