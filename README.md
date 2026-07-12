@@ -1,9 +1,6 @@
 # Hello World!
-I am a 31-year old enthusiastic gamer from Finland, currently studying programming and video game development.  
-Currently studying **C#, C++, UE5, Unity, Python, SQL** and expanding my general knowledge across various fields of IT.  
-Experienced in **graphical design**, **video editing** and **music composing**. *I also play piano & guitar*.  
-Started ICT studies and now I am practicing to use GitHub.  
-Here I will be keeping my [DEV-DIARY](https://github.com/donde94/DEV-DIARY) and will be sharing my projects.  
+Welcome to my GitHub page. This will be more of a personal website rather than your regular commit library. 
+Check out the links below to view my projects.
 ![Banner](korentobanner1.png)
 
 ## Projects
