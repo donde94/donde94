@@ -1,6 +1,7 @@
-# Welcome to my GitHub page.  
+# Korento Interactive Game Studio
 This will be more of a personal website rather than your regular commit library. 
-Check out the links below to view my projects.
+Check out the links below to view my projects.  
+Korento stands for firefly in *Finnish language*.
 ![Banner](korentobanner1.png)
 
 ## Projects
