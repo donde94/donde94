@@ -1,5 +1,6 @@
 # Hello World!
-Welcome to my GitHub page. This will be more of a personal website rather than your regular commit library. 
+# Welcome to my GitHub page.  
+This will be more of a personal website rather than your regular commit library. 
 Check out the links below to view my projects.
 ![Banner](korentobanner1.png)
 
