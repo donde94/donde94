@@ -1,7 +1,7 @@
 # Korento Interactive Game Studio
 This will be more of a personal website rather than your regular commit library. 
 Check out the links below to view my projects.  
-Korento stands for "Dragonfly" in *Finnish language*.
+*Korento stands for "Dragonfly" in Finnish language*.
 ![Banner](korentobanner1.png)
 
 ## Projects
