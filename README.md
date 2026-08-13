@@ -1,41 +1,42 @@
 # Korento Interactive Game Studio
-This will be more of a personal website rather than your regular commit library. 
+
+This will be more of a personal website rather than your regular commit library.  
 Check out the links below to view my projects.  
-*Korento stands for "Dragonfly" in Finnish language*.
+*Korento stands for "Dragonfly" in Finnish language*. 📫 [YouTube](https://www.youtube.com/@KorentoInteractive)
+
 ![Banner](korentobanner1.png)
 
 ## Projects
-- **Toivo(abandoned)** – Souls-like game with Nordic mythology developed in Unreal Engine 5 -*Production Cancelled Due to Budget Limitations*
 
-  [![Toivo Preview](toivopreview2.png)](https://youtu.be/YsZmyFvXvHg)  
-- *(pending)* **Lost Wisdom** - Psychological Horror in first person view. Witness the unraveling of a man’s sanity through his own eyes. - **Unreal Engine 5** - *[Teaser Coming Soon]*
--   ![Lost Wisdom](LostWisdomPR.png)  
+<h1>Toivo <i>(abandoned)</i></h1>
 
-- *(pending)* **Teenage Joyride** - Blasting subwoofers, egging teachers' houses and cruising around with your reckless teenage friendgroup.
+Souls-like game with Nordic mythology developed in Unreal Engine 5.
 
-- [DEV-DIARY](https://github.com/donde94/DEV-DIARY)
-- *(pending)* **Sandbox** - Small tests while learning various topics
+[![Toivo Preview](toivopreview2.png)](https://youtu.be/YsZmyFvXvHg)
 
-### Look us up at YouTube!
-📫 [YouTube](https://www.youtube.com/@KorentoInteractive)
+<h1>Developer Diary</h1>  
+I will upload some diary of my progression in my studies whenever I feel like it, so everything posted here is not everything learned.
 
-## Who am I?
-I am 32 years old **Finnish** man, currently studying *ICT* in Finland and dreaming of becoming an *official licensed* ***game studio owner***.  
-I play guitar and piano and also *produce* electronic music and have years of experience in many other fields of IT and arts.  
-My interests are very vast and they range from ***backpacking*** to **kickboxing**, **swimming**, **literature*** to ***programming*** and many more!  
-Thank you for showing interest in this page, later on I shall be having a professional portfolio displayed in here so feel free to follow me already! Cya!  
+[Link to Developer Diary!](https://github.com/donde94/DEV-DIARY)
+<h1>Lost Wisdom</h1>
 
-<!--
-**donde94/donde94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Psychological Horror in first person view. A man progressively loses his sanity only to realize it much too late. 
+Developed in Unreal Engine 5.
 
-Here are some ideas to get you started:
+![Lost Wisdom](./LostWisdomPR.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Smaller projects and ideas</h1>
+
+>**Teenage Joyride**  
+>Blasting subwoofers, egging teachers' houses and cruising around with your reckless teenage friend group.  
+  
+>Small tests while learning various topics  
+>I will be uploading some quirky game demos along the way so feel free to follow me!
+
+<h1>✦ About Me</h1>
+
+**Over 10 years of experience** in various fields of IT, creative work and customer service. I produce electronic music and play multiple instruments. I love arts and all sorts of creative work, and my passion lies in video games!  
+I do sports actively, study many subjects like philosophy and psychology and I am planning on going to Thailand for a kickboxing camp. For now I have years of school ahead of me so that is my main goal and motivation! Thanks for checking out my page, bless you!
+
+
+📫 Feel free to contact me: **korentointeractive@gmail.com**
