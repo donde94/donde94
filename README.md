@@ -19,6 +19,12 @@ Check out the links below to view my projects.
 ### Look us up at YouTube!
 📫 [YouTube](https://www.youtube.com/@KorentoInteractive)
 
+## Who am I?
+I am 32 years old **Finnish** man, currently studying *ICT* in Finland and dreaming of becoming an *official licensed* ***game studio owner***.  
+I play guitar and piano and also *produce* electronic music and have years of experience in many other fields of IT and arts.  
+My interests are very vast and they range from ***backpacking*** to **kickboxing**, **swimming**, **literature*** to ***programming*** and many more!  
+Thank you for showing interest in this page, later on I shall be having a professional portfolio displayed in here so feel free to follow me already! Cya!  
+
 <!--
 **donde94/donde94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
