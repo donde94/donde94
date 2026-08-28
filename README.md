@@ -14,6 +14,9 @@ Souls-like game with Nordic mythology developed in Unreal Engine 5.
 
 [![Toivo Preview](toivopreview2.png)](https://youtu.be/YsZmyFvXvHg)
 
+<h1>Dekalogos</h1>
+A middle age themed combat & adventure game, development started August 2026.
+
 <h1>Developer Diary</h1>  
 I will upload some diary of my progression in my studies whenever I feel like it, so everything posted here is not everything learned.
 
