@@ -36,7 +36,7 @@ Developed in Unreal Engine 5.
 <h1>✦ About Me</h1>
 
 **Over 10 years of experience** in various fields of IT, creative work and customer service. I produce electronic music and play multiple instruments. I love arts and all sorts of creative work, and my passion lies in video games!  
-I do sports actively, study many subjects like philosophy and psychology and I am planning on going to Thailand for a kickboxing camp. For now I have years of school ahead of me so that is my main goal and motivation! Thanks for checking out my page, bless you!
+I do sports actively, study many subjects like philosophy and psychology and I am planning on going to Thailand for a kickboxing camp. For now I am devoted to game development mainly!
 
 
 📫 Feel free to contact me: **korentointeractive@gmail.com**
