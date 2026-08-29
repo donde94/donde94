@@ -8,14 +8,17 @@ Check out the links below to view my projects.
 
 ## Projects
 
+<h1>Dekalogos</h1>
+
+A medieval-themed combat & adventure game featuring an environmental line-trace for climbing and much more. Development started August 2026 — Unreal Engine 5.8.
+
+<img src="https://github.com/donde94/DEV-DIARY/blob/main/ezgif-67b106406645ce85.gif" alt="Dekalogos">
+
 <h1>Toivo <i>(abandoned)</i></h1>
 
 Souls-like game with Nordic mythology developed in Unreal Engine 5.
 
 [![Toivo Preview](toivopreview2.png)](https://youtu.be/YsZmyFvXvHg)
-
-<h1>Dekalogos</h1>
-A middle age themed combat & adventure game, development started August 2026.
 
 <h1>Developer Diary</h1>  
 I will upload some diary of my progression in my studies whenever I feel like it, so everything posted here is not everything learned.
