@@ -12,7 +12,7 @@ Check out the links below to view my projects.
 
 A medieval-themed combat & adventure game featuring an environmental line-trace for climbing and much more. Development started August 2026 — Unreal Engine 5.8.
 
-<img src="https://github.com/donde94/DEV-DIARY/blob/main/ezgif-67b106406645ce85.gif" alt="Dekalogos">
+<img src="https://github.com/donde94/DEV-DIARY/blob/main/ezgif-713dc567fad95652.gif" alt="Dekalogos">
 
 <h1>Toivo <i>(abandoned)</i></h1>
 
