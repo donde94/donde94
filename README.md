@@ -11,8 +11,9 @@ Check out the links below to view my projects.
 <h1>Dekalogos</h1>
 
 A medieval-themed combat & adventure game featuring an environmental line-trace for climbing and much more. Development started August 2026 — Unreal Engine 5.8.
+[Gameplay Preview](https://www.youtube.com/watch?v=NgPDIMCYHeE)
 
-<img src="https://github.com/donde94/DEV-DIARY/blob/main/20260921_145215.jpg" alt="Dekalogos">
+<img src="https://github.com/donde94/DEV-DIARY/blob/main/20260921_145215.jpg">
 
 <h1>Toivo <i>(abandoned)</i></h1>
 
