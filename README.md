@@ -14,7 +14,7 @@ A medieval-themed combat & adventure game featuring an environmental line-trace 
 [Gameplay Preview Video Link](https://www.youtube.com/watch?v=NgPDIMCYHeE)  
 Separate URL: https://www.youtube.com/watch?v=NgPDIMCYHeE
 
-<img src="https://github.com/donde94/DEV-DIARY/blob/main/20260921_145215.jpg">
+<img src="https://github.com/donde94/DEV-DIARY/blob/main/ezgif-67b106406645ce85.gif">
 
 <h1>Toivo <i>(abandoned)</i></h1>
 
