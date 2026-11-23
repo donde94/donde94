@@ -8,7 +8,18 @@ Check out the links below to view my projects.
 
 ## Projects
 
-<h1>Dekalogos</h1>
+https://github.com/donde94/donde94/blob/main/N%C3%A4ytt%C3%B6kuva%20(174).png
+
+https://github.com/donde94/donde94/blob/main/N%C3%A4ytt%C3%B6kuva%20(172).png
+
+<h1>Carmina Mortis (in active development)</h1>
+<h3>Hardcore slow paced Souls-like in isometric view</h3>
+<img src="https://github.com/donde94/donde94/blob/main/N%C3%A4ytt%C3%B6kuva%20(174).png">
+<img src="https://github.com/donde94/donde94/blob/main/N%C3%A4ytt%C3%B6kuva%20(172).png">
+
+
+
+<h1>Dekalogos (on hold)</h1>
 
 A medieval-themed combat & adventure game featuring an environmental line-trace for climbing and much more. Development started August 2026 — Unreal Engine 5.8.
 [Gameplay Preview Video Link](https://www.youtube.com/watch?v=NgPDIMCYHeE)  
