@@ -7,6 +7,7 @@ Welcome! Check out the links below to view my projects.
 ## Projects
 <h1>Carmina Mortis (in active development)</h1>
 <h3>Hardcore slow paced Souls-like in isometric view</h3>
+<h3>EARLY PROTOTYPE VIDEO:</h3> https://www.youtube.com/watch?v=v8YCrRBdSWw
 <img src="https://github.com/donde94/donde94/blob/main/N%C3%A4ytt%C3%B6kuva%20(174).png">
 <img src="https://github.com/donde94/donde94/blob/main/carmina_devLog.jpg">
 
