@@ -1,9 +1,6 @@
 # Korento Interactive 
 Welcome! Check out the links below to view my projects.  
-*Korento stands for "Dragonfly" in Finnish language*. 📫 [YouTube](https://www.youtube.com/@KorentoInteractive)
-
-![Banner](korentobanner1.png)
-
+*Korento stands for "Dragonfly" in Finnish language*. 📫 [YouTube](https://www.youtube.com/@KorentoInteractive)  
 ## Projects
 <h1>Carmina Mortis (in active development)</h1>
 <h3>Hardcore slow paced Souls-like in isometric view</h3>
