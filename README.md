@@ -6,7 +6,7 @@ Welcome! Check out the links below to view my projects.
 <h3>Hardcore slow paced Souls-like in isometric view</h3>
 <h3>EARLY PROTOTYPE VIDEO:</h3> https://www.youtube.com/watch?v=v8YCrRBdSWw
 <p align="center">
-  <img src="https://github.com/donde94/donde94/blob/main/38584390.800000004_%7BCC6E1106-95BC-4727-A833-972973087B17%7D.png" alt="HUD1" width="60%" />
+  <img src="https://github.com/donde94/donde94/blob/main/38584390.800000004_%7BCC6E1106-95BC-4727-A833-972973087B17%7D.png" alt="HUD1" width="80%" />
 </p>
 <p align="center">
   <img src="https://github.com/donde94/donde94/blob/main/38649657.9_%7BC5D7D14A-92D3-4553-B91E-8064C3E93B0E%7D.png" alt="HUD2" height="220" />
