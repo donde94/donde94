@@ -9,7 +9,7 @@ Welcome! Check out the links below to view my projects.
 <img src="https://github.com/donde94/donde94/blob/main/38649657.9_%7BC5D7D14A-92D3-4553-B91E-8064C3E93B0E%7D.png" alt="HUD2" width="50%" />
 <img src="https://github.com/donde94/donde94/blob/main/38770652.300000004_%7BF04F80C6-2001-4AA4-BCF5-D606FE86C803%7D.png" alt="HUD3" width="50%" />
 
-<img src="https://github.com/donde94/donde94/blob/main/%7B165286E1-ED75-4F5D-BC74-F474BD1ADDE3%7D.png" width="50%" />
+<img src="https://github.com/donde94/donde94/blob/main/%7B165286E1-ED75-4F5D-BC74-F474BD1ADDE3%7D.png" width="80%" />
 <img src="https://github.com/donde94/donde94/blob/main/carmina_devLog.jpg">
 
 
