@@ -5,6 +5,8 @@ Welcome! Check out the links below to view my projects.
 <h1>Carmina Mortis (in active development)</h1>
 <h3>Slow, isometric ARPG with Dark Souls grim feel and religious fanaticism theme, inspired by games like Diablo & Dark Souls but thriving for exploration and story more than just slaying enemies for loot.</h3>
 <h3>EARLY PROTOTYPE VIDEO:</h3> https://www.youtube.com/watch?v=v8YCrRBdSWw
+
+<img src="https://github.com/donde94/donde94/blob/main/%7BD1F112A7-4B3D-4685-A28D-6324EA474C96%7D.png" width="100%" />
 <p align="center">
   <img src="https://github.com/donde94/donde94/blob/main/38584390.800000004_%7BCC6E1106-95BC-4727-A833-972973087B17%7D.png" alt="HUD1" width="80%" />
 </p>
@@ -13,7 +15,6 @@ Welcome! Check out the links below to view my projects.
   <img src="https://github.com/donde94/donde94/blob/main/38770652.300000004_%7BF04F80C6-2001-4AA4-BCF5-D606FE86C803%7D.png" alt="HUD3" height="440" />
 </p>
 
-<img src="https://github.com/donde94/donde94/blob/main/%7BD1F112A7-4B3D-4685-A28D-6324EA474C96%7D.png" width="100%" />
 
 <img src="https://github.com/donde94/donde94/blob/main/%7B165286E1-ED75-4F5D-BC74-F474BD1ADDE3%7D.png" width="100%" />
 <img src="https://github.com/donde94/donde94/blob/main/carmina_devLog.jpg">
