@@ -29,7 +29,7 @@ Separate URL: https://www.youtube.com/watch?v=NgPDIMCYHeE
 
 <img src="https://github.com/donde94/DEV-DIARY/blob/main/ezgif-67b106406645ce85.gif">
 
-<h1>Toivo <i>(abandoned)</i></h1>
+<h1>Toivo <i>(abandoned) (Handmade with Blueprints only - No AI)</i></h1>
 
 Souls-like game with Nordic mythology developed in Unreal Engine 5.
 
