@@ -5,7 +5,7 @@ Welcome! Check out the links below to view my projects.
 <h1>Carmina Mortis (in active development)</h1>
 <h3>Slow, isometric ARPG with Dark Souls grim feel and religious fanaticism theme, inspired by games like Diablo & Dark Souls but striving for exploration and story more than just slaying enemies for loot.</h3>
 <h3>EARLY PROTOTYPE VIDEO:</h3> https://www.youtube.com/watch?v=v8YCrRBdSWw
-
+<img src="https://github.com/donde94/donde94/blob/main/SpellHUDCarminaMortis.gif" width="100%" />
 <img src="https://github.com/donde94/donde94/blob/main/%7B769E5742-A803-47F8-9AB3-24531D2DE3BA%7D.png" width="100%" />
 <img src="https://github.com/donde94/donde94/blob/main/%7BD1F112A7-4B3D-4685-A28D-6324EA474C96%7D.png" width="100%" />
 <p align="center">
